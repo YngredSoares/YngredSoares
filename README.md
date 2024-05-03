@@ -6,7 +6,7 @@ Olá! Eu sou Yngred Soares, estudante e amante da tecnologia
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=YngredSoares&show_icons=true&theme=black"
+    srcset="https://github-readme-stats.vercel.app/api?username=YngredSoares&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
